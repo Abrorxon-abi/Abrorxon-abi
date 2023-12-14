@@ -33,9 +33,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abrorxon-abi&theme=dark&hide_border=true&card_width=495)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abrorxon-abi&hide_border=true&card_width=495)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abrorxon-abi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abrorxon-abi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ---
 
@@ -44,6 +44,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [How to Implement Memoization in React to Improve Performance](https://www.sitepoint.com/implement-memoization-in-react-to-improve-performance/)
 - [How to Create an Impressive GitHub Profile README](https://www.sitepoint.com/github-profile-readme/)
    -->
+
+<!-- ### 🔥 &nbsp; My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abrorxon-abi&theme=dark&hide_border=true&card_width=495)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abrorxon-abi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+
 <!---
 Abrorxon-abi/Abrorxon-abi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
