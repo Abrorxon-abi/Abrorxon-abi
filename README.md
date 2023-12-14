@@ -33,7 +33,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abrorxon-abi&hide_border=true&card_width=495)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abrorxon-abi&hide_border=false&card_width=495)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abrorxon-abi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
