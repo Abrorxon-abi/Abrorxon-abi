@@ -30,27 +30,19 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
         
 </p>
 
----
 
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abrorxon-abi&hide_border=false&card_width=495)](https://git.io/streak-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abrorxon-abi&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<!-- ---
-
-### ✍️ Blog Posts : 
-- [How to Create REST APIs with Java and Spring Boot](https://www.twilio.com/blog/create-rest-apis-java-spring-boot)
-- [How to Implement Memoization in React to Improve Performance](https://www.sitepoint.com/implement-memoization-in-react-to-improve-performance/)
-- [How to Create an Impressive GitHub Profile README](https://www.sitepoint.com/github-profile-readme/)
-   -->
 
 <!-- ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abrorxon-abi&theme=dark&hide_border=true&card_width=495)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abrorxon-abi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<!---
-Abrorxon-abi/Abrorxon-abi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<!-- <p align="left">
+  <img src ="https://github-readme-stats.vercel.app/api?username=Abrorxon-abi&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&hide=issues&include_all_commits=true">
+</p> -->
