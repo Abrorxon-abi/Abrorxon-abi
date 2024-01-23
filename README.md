@@ -4,7 +4,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 🔭 I’m working as a Junior Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on AdventOfCode and read tech articles.
+- ⚡ In my free time I solve problems on LeetCode, AdventOfCode and read tech articles.
 - 📫 How to reach me: &nbsp; just send me email ppvbuyppv@gmail.com
 
 ---
